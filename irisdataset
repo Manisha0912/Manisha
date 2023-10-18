@@ -30,11 +30,11 @@
       "execution_count": 132,
       "metadata": {
         "id": "7JaqcmJWVNY5",
-        "outputId": "484e7b80-fec4-4e3c-a115-8c8a376dd7ad",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 423
-        }
+        },
+        "outputId": "484e7b80-fec4-4e3c-a115-8c8a376dd7ad"
       },
       "outputs": [
         {
@@ -520,10 +520,10 @@
       ],
       "metadata": {
         "id": "T0NrAKlxXzku",
-        "outputId": "1f6f5f25-8c80-4d01-e562-48bceaa94284",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "outputId": "1f6f5f25-8c80-4d01-e562-48bceaa94284"
       },
       "execution_count": 133,
       "outputs": [
@@ -546,10 +546,10 @@
       ],
       "metadata": {
         "id": "bZshorlmaPfd",
-        "outputId": "a7440169-34e6-45f6-a5bd-251303b55b81",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "outputId": "a7440169-34e6-45f6-a5bd-251303b55b81"
       },
       "execution_count": 134,
       "outputs": [
@@ -572,10 +572,10 @@
       ],
       "metadata": {
         "id": "ABqBQtvtaZFl",
-        "outputId": "2f4b20d8-01a2-40b4-d085-b0204d6c3fe4",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "outputId": "2f4b20d8-01a2-40b4-d085-b0204d6c3fe4"
       },
       "execution_count": 135,
       "outputs": [
@@ -614,10 +614,10 @@
       ],
       "metadata": {
         "id": "oHsJWbBWadje",
-        "outputId": "703719b5-7cbc-4880-c848-a7e5564be452",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "outputId": "703719b5-7cbc-4880-c848-a7e5564be452"
       },
       "execution_count": 136,
       "outputs": [
@@ -653,10 +653,10 @@
       ],
       "metadata": {
         "id": "E4HNaYRBaxSo",
-        "outputId": "fa69d6d4-e732-4e6a-a836-3f4529425fd3",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "outputId": "fa69d6d4-e732-4e6a-a836-3f4529425fd3"
       },
       "execution_count": 137,
       "outputs": [
@@ -693,11 +693,11 @@
       ],
       "metadata": {
         "id": "5lXPBqqpbYV3",
-        "outputId": "5024abab-c1c7-475b-9a94-685b20e1bc11",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 466
-        }
+        },
+        "outputId": "5024abab-c1c7-475b-9a94-685b20e1bc11"
       },
       "execution_count": 138,
       "outputs": [
@@ -731,10 +731,10 @@
       ],
       "metadata": {
         "id": "wYjvVjGubzxQ",
-        "outputId": "fb0e9cc0-8d11-49ac-c01c-dd5bf1e16472",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "outputId": "fb0e9cc0-8d11-49ac-c01c-dd5bf1e16472"
       },
       "execution_count": 139,
       "outputs": [
@@ -760,10 +760,10 @@
       ],
       "metadata": {
         "id": "6gT6_LMZcQNP",
-        "outputId": "30591ffb-1ff3-4a37-f709-6f2bda0f78ed",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "outputId": "30591ffb-1ff3-4a37-f709-6f2bda0f78ed"
       },
       "execution_count": 140,
       "outputs": [
@@ -788,10 +788,10 @@
       ],
       "metadata": {
         "id": "wpOzgPOscXGR",
-        "outputId": "99ba226e-a015-4116-99ea-c4634bc67d5d",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "outputId": "99ba226e-a015-4116-99ea-c4634bc67d5d"
       },
       "execution_count": 112,
       "outputs": [
@@ -817,11 +817,11 @@
       ],
       "metadata": {
         "id": "07t42py8ccYm",
-        "outputId": "b61ec4da-e93f-4810-e840-9234751fba5f",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 466
-        }
+        },
+        "outputId": "b61ec4da-e93f-4810-e840-9234751fba5f"
       },
       "execution_count": 141,
       "outputs": [
@@ -855,10 +855,10 @@
       ],
       "metadata": {
         "id": "wCTxccY7cvHd",
-        "outputId": "78818496-8817-4897-b8c0-99944b536790",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "outputId": "78818496-8817-4897-b8c0-99944b536790"
       },
       "execution_count": 142,
       "outputs": [
@@ -884,10 +884,10 @@
       ],
       "metadata": {
         "id": "lWNSs_n_dQYY",
-        "outputId": "0a2909a3-7cc7-4fa0-fad5-21c83ee888bb",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "outputId": "0a2909a3-7cc7-4fa0-fad5-21c83ee888bb"
       },
       "execution_count": 143,
       "outputs": [
@@ -912,10 +912,10 @@
       ],
       "metadata": {
         "id": "YptW4ZvZdWZe",
-        "outputId": "e8f92aec-c901-45a3-945c-99784591618c",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "outputId": "e8f92aec-c901-45a3-945c-99784591618c"
       },
       "execution_count": 116,
       "outputs": [
@@ -941,11 +941,11 @@
         "print(df.info())\n"
       ],
       "metadata": {
-        "id": "9lGYe1uyA-5-",
-        "outputId": "bbd0d9c3-417b-4c4e-9377-24f49d059c9f",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "9lGYe1uyA-5-",
+        "outputId": "bbd0d9c3-417b-4c4e-9377-24f49d059c9f"
       },
       "execution_count": 144,
       "outputs": [
@@ -1021,10 +1021,10 @@
       ],
       "metadata": {
         "id": "o1FJkzAqda71",
-        "outputId": "99c69ec8-9df2-48c5-d11c-d17aac95f00e",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "outputId": "99c69ec8-9df2-48c5-d11c-d17aac95f00e"
       },
       "execution_count": 145,
       "outputs": [
@@ -1463,12 +1463,12 @@
         "sns.countplot(x=df['Survived'],hue=df['Pclass'])"
       ],
       "metadata": {
-        "id": "wlghDoyEPzMA",
-        "outputId": "40478036-4fa9-4b49-be69-44a7dfe60327",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 466
-        }
+        },
+        "id": "wlghDoyEPzMA",
+        "outputId": "40478036-4fa9-4b49-be69-44a7dfe60327"
       },
       "execution_count": 152,
       "outputs": [
@@ -1500,11 +1500,11 @@
         "df[\"Sex\"]"
       ],
       "metadata": {
-        "id": "uOPA1320UXfP",
-        "outputId": "4f423fc2-68a1-4390-80da-779aa2c94beb",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "uOPA1320UXfP",
+        "outputId": "4f423fc2-68a1-4390-80da-779aa2c94beb"
       },
       "execution_count": 153,
       "outputs": [
@@ -1542,12 +1542,12 @@
         "df.head()"
       ],
       "metadata": {
-        "id": "LdvTfLafSMOr",
-        "outputId": "524ec3b4-bcc9-41f9-c481-027802e1c4b0",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 206
-        }
+        },
+        "id": "LdvTfLafSMOr",
+        "outputId": "524ec3b4-bcc9-41f9-c481-027802e1c4b0"
       },
       "execution_count": 154,
       "outputs": [
@@ -1911,11 +1911,11 @@
         "df['Sex'],df['Survived']"
       ],
       "metadata": {
-        "id": "M7NB1YAYVDK9",
-        "outputId": "dc089e53-571c-47bd-e665-b9b62b61c1f1",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "M7NB1YAYVDK9",
+        "outputId": "dc089e53-571c-47bd-e665-b9b62b61c1f1"
       },
       "execution_count": 155,
       "outputs": [
@@ -1960,12 +1960,12 @@
         "sns.countplot(x=df['Sex'],hue=df['Survived'])"
       ],
       "metadata": {
-        "id": "lbtngb8BVMv3",
-        "outputId": "644eff87-f13f-4093-9ef8-476148cbabe7",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 466
-        }
+        },
+        "id": "lbtngb8BVMv3",
+        "outputId": "644eff87-f13f-4093-9ef8-476148cbabe7"
       },
       "execution_count": 156,
       "outputs": [
@@ -1997,11 +1997,11 @@
         "df.isna().sum()"
       ],
       "metadata": {
-        "id": "9ORidkt8VxAE",
-        "outputId": "812d9bfb-6067-47d8-9b49-a0e2d5ac9f35",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "9ORidkt8VxAE",
+        "outputId": "812d9bfb-6067-47d8-9b49-a0e2d5ac9f35"
       },
       "execution_count": 157,
       "outputs": [
@@ -2048,12 +2048,12 @@
         "df_final.head(10)"
       ],
       "metadata": {
-        "id": "o6kTHf21WJsM",
-        "outputId": "781af301-319a-4446-8869-59eb04991e29",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 363
-        }
+        },
+        "id": "o6kTHf21WJsM",
+        "outputId": "781af301-319a-4446-8869-59eb04991e29"
       },
       "execution_count": 159,
       "outputs": [
@@ -2547,12 +2547,12 @@
         "model.fit(x_train,y_train)"
       ],
       "metadata": {
-        "id": "uCmYet3yY5L5",
-        "outputId": "d6079794-0938-4304-b8ae-6b81ab09cb3c",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 74
-        }
+        },
+        "id": "uCmYet3yY5L5",
+        "outputId": "d6079794-0938-4304-b8ae-6b81ab09cb3c"
       },
       "execution_count": 164,
       "outputs": [
@@ -2588,11 +2588,11 @@
         "pred=print(model.predict(x_test))"
       ],
       "metadata": {
-        "id": "7Vgnbf0iZMGo",
-        "outputId": "86c21c67-202f-4f8a-990c-faad91ea7e43",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "7Vgnbf0iZMGo",
+        "outputId": "86c21c67-202f-4f8a-990c-faad91ea7e43"
       },
       "execution_count": 166,
       "outputs": [
@@ -2613,11 +2613,11 @@
         "print(y_test)"
       ],
       "metadata": {
-        "id": "7jDppqW_ZWDN",
-        "outputId": "d16f845d-8628-4202-a5d9-bc76ef4a295c",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "7jDppqW_ZWDN",
+        "outputId": "d16f845d-8628-4202-a5d9-bc76ef4a295c"
       },
       "execution_count": 167,
       "outputs": [
@@ -2655,11 +2655,11 @@
         "  print(\"survived\")"
       ],
       "metadata": {
-        "id": "DKbWRESOZsNo",
-        "outputId": "70805f00-ff3e-4c11-ee74-e5194d43ab25",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "DKbWRESOZsNo",
+        "outputId": "70805f00-ff3e-4c11-ee74-e5194d43ab25"
       },
       "execution_count": 168,
       "outputs": [
